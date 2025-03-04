@@ -12,5 +12,10 @@ function calculateRectangleArea(float $length, float $width): void
     echo "Area of rectangle is: " . $area . "<br>";
 }
 
+function utsav()
+{
+    
+}
+
 calculateCircleArea(5);
 calculateRectangleArea(5, 5);
